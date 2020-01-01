@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1512957933 source:d:\projects\project_breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1512561052 d:\projects\project_breakout\menu.h
+
+1512958505 source:d:\projects\project_breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1513134216 source:d:\projects\project_breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+	"ranking.h"
+
+1513036677 d:\projects\project_breakout\game.h
+
+1512558772 source:e:\lpi\breakout versoes\project_breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+
+1512561052 e:\lpi\breakout versoes\project_breakout\menu.h
+
+1512504296 source:e:\lpi\breakout versoes\project_breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+
+1512523440 e:\lpi\breakout versoes\project_breakout\game.h
+
+1512561792 source:e:\lpi\breakout versoes\project_breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+
+1512558772 source:e:\lpi\breakout final\project_breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+
+1512561052 e:\lpi\breakout final\project_breakout\menu.h
+
+1512504296 source:e:\lpi\breakout final\project_breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+
+1512523440 e:\lpi\breakout final\project_breakout\game.h
+
+1512561792 source:e:\lpi\breakout final\project_breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+
+1512611919 d:\projects\project_breakout\secret.h
+
+1512749456 source:d:\projects\project_breakout\secret.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"secret.h"
+	"game.h"
+
+1513134197 d:\projects\project_breakout\ranking.h
+
+1513374907 source:d:\projects\project_breakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"menu.h"
+	"game.h"
+
+1513134216 source:c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+	"ranking.h"
+
+1512561052 c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\menu.h
+
+1513134197 c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\ranking.h
+
+1512957933 source:c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1513036677 c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\game.h
+
+1512611919 c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\secret.h
+
+1513374907 source:c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"menu.h"
+	"game.h"
+
+1512749456 source:c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\secret.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"secret.h"
+	"game.h"
+
+1557954208 source:c:\users\mathe\desktop\estudos\1 periodo\lpi\project_breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1558726932 source:c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+	"ranking.h"
+
+1512561052 c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\menu.h
+
+1513134197 c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\ranking.h
+
+1512957933 source:c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1513036677 c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\game.h
+
+1512611919 c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\secret.h
+
+1557954208 source:c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1512749456 source:c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\secret.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"secret.h"
+	"game.h"
+
+1577902112 source:c:\users\mathe\desktop\estudos\poli\1 periodo\lpi\project_breakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"menu.h"
+	"game.h"
+
