@@ -609,7 +609,7 @@ void game() // funcao do jogo
             disp_bar();
         }
         ball();
-        Sleep(70);
+        Sleep(50);
     }
     while(life!=0 && qtd_blocos !=0);
 

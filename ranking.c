@@ -6,10 +6,10 @@
 #include "menu.h"
 #include "game.h"
 
-char url[]="ranking.txt";
+char url[]="files\\ranking.txt";
 FILE *ranking;
 
-char url2[]="id.txt";
+char url2[]="files\\id.txt";
 FILE *id;
 
 struct player

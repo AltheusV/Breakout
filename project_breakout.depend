@@ -202,3 +202,54 @@
 	"menu.h"
 	"game.h"
 
+1619650466 source:d:\programming\workspace\c\breakout\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"menu.h"
+	"ranking.h"
+
+1619646955 d:\programming\workspace\c\breakout\menu.h
+
+1619646955 d:\programming\workspace\c\breakout\ranking.h
+
+1619649350 source:d:\programming\workspace\c\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1619646955 d:\programming\workspace\c\breakout\game.h
+
+1619646955 d:\programming\workspace\c\breakout\secret.h
+
+1619648159 source:d:\programming\workspace\c\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"game.h"
+	"secret.h"
+	"ranking.h"
+
+1619646955 source:d:\programming\workspace\c\breakout\secret.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"secret.h"
+	"game.h"
+
+1619651378 source:d:\programming\workspace\c\breakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"menu.h"
+	"game.h"
+
